@@ -22,7 +22,7 @@ def main():
 	left, right = st.columns(2)
 	prediction = st.container()
 
-	st.image("https://cdn.rebrickable.com/media/thumbs/mocs/moc-51466.jpg/1000x800.jpg")
+	st.image("./images/lego-titanic.png")
 
 	with overview:
 		st.title("Titanic Survival Prediction App")
